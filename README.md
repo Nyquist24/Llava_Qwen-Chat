@@ -1,5 +1,4 @@
-# Llava (CLIP+Qwen1.5/2): Towards GPT Level Vision and Speech Interaction [.Git](https://github.com/Nyquist24/Llava_Qwen-Chat)
-
+# Llava (CLIP+Qwen1.5/2): Towards GPT Level Vision and Speech Interaction
 ## Progress
 * **`2024.12.05`** 🌟Code of Pretrain: train_qwen, builder, llava_qwen (LlavaQwen2ForCausalLM, ~~AutoTokenizer.register()~~)
 * **`2024.12.23`** 🌟Pretrain in [liuhaotian/LLaVA-Pretrain](https://hf-mirror.com/datasets/liuhaotian/LLaVA-Pretrain)
