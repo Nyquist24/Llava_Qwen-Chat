@@ -1,6 +1,0 @@
-MMMU_eval
-VLMEvalKit
-checkpoints
-images
-llava
-wandb
