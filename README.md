@@ -96,4 +96,4 @@ CUDA_VISIBLE_DEVICES=0 python run.py --data AI2D_TEST OCRBench ... --model llava
 ```
 
 ## 👍 Acknowledgement
-Thanks to the following outstanding works: [LLaVA-1.5](https://github.com/haotian-liu/LLaVA), [Qwen-2.5](https://github.com/QwenLM/Qwen2.5),[VITA](https://github.com/VITA-MLLM/VITA)  and [VLMEvalkit](https://github.com/open-compass/VLMEvalKit).
+Thanks to the following outstanding works: [LLaVA-1.5](https://github.com/haotian-liu/LLaVA), [Qwen-2.5](https://github.com/QwenLM/Qwen2.5), [VITA](https://github.com/VITA-MLLM/VITA), [InternVL](https://github.com/OpenGVLab/InternVL)  and [VLMEvalkit](https://github.com/open-compass/VLMEvalKit).
